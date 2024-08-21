@@ -1,9 +1,5 @@
 # Bem-vindo ao Meu Perfil do GitHub! 👋
 
-### Sobre Mim
-Sou um estudante apaixonado por Desenvolvimento de Software, com foco em construir aplicações web dinâmicas e eficientes. Gosto de aprender novas tecnologias e de resolver problemas complexos de maneira criativa.
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 Aqui estão algumas das tecnologias e ferramentas que venho aprendendo e utilizando:
