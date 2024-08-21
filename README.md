@@ -21,7 +21,7 @@ Aqui estão algumas das tecnologias e ferramentas que venho aprendendo e utiliza
 
 No último período, trabalhei com minha equipe no desenvolvimento de um site educacional onde os usuários podiam fazer login e realizar um curso sobre Scrum. Após a conclusão do curso, os usuários respondiam a um questionário com 30 questões. Se acertassem pelo menos 70% das perguntas, o site emitia um certificado de aprovação.
 
-Este projeto foi inteiramente desenvolvido sem o uso de frameworks, utilizando apenas HTML, CSS, JavaScript e PostgreSQL. Para garantir a eficiência e o cumprimento dos prazos, dominamos o uso do Scrum. Utilizamos o **burn down chart** para monitorar o progresso e as **técnicas de poker** para definir as prioridades das tarefas. Foi uma experiência valiosa que nos permitiu entregar um produto funcional dentro do prazo estipulado.
+Este projeto foi inteiramente desenvolvido sem o uso de frameworks, utilizando apenas HTML, CSS, JavaScript e PostgreSQL. Para garantir a eficiência e o cumprimento dos prazos, dominamos o uso do Scrum. Utilizamos o **grafico burn down chart** para monitorar o progresso e as **técnicas de Planning Poker, que é uma técnica utilizada em projetos ágeis para estimar o esforço necessário para completar uma tarefa** para definir as prioridades das tarefas. Foi uma experiência valiosa que nos permitiu entregar um produto funcional dentro do prazo estipulado.
 
 ---
 
